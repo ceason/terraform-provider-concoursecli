@@ -4,6 +4,8 @@
 ## Usage
 This provider has a few prerequsites right now:
 - `fly` must exist on your $PATH (may change in future)
+- Download the plugin from the [Releases](https://github.com/ceason/terraform-provider-concoursecli/releases) page
+- [Install](https://terraform.io/docs/plugins/basics.html) it
 
 Example pipeline resource
 ```hcl
